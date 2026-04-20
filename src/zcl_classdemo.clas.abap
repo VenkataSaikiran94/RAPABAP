@@ -13,6 +13,6 @@ ENDCLASS.
 
 CLASS zcl_classdemo IMPLEMENTATION.
 method if_oo_adt_classrun~main.
-
+" Logic 1
 endMETHOD.
 ENDCLASS.
